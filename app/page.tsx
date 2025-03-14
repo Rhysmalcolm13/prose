@@ -14,7 +14,7 @@ export default function Home() {
             Transform your ideas into reality with AI assistance at every stage of your product journey.
           </p>
           <Link 
-            href="/app" 
+            href="application" 
             className="inline-flex items-center gap-2 bg-green-400 text-black px-8 py-4 text-xl font-bold 
                      border-4 border-black shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] 
                      hover:translate-x-[3px] hover:translate-y-[3px] hover:shadow-none transition-all"
@@ -77,4 +77,4 @@ export default function Home() {
       </div>
     </main>
   );
-};
+}
